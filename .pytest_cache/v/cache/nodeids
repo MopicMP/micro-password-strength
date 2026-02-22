@@ -1,0 +1,5 @@
+[
+  "tests/test_micro_password_strength.py::TestStrength::test_basic",
+  "tests/test_micro_password_strength.py::TestStrength::test_empty",
+  "tests/test_micro_password_strength.py::TestStrength::test_type_error"
+]
